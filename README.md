@@ -7,7 +7,7 @@ This is a simple Java application that fetches and displays the recent public ac
 - **24/10/2024**
 
 ## Goals and Features
-- Implement roadmap.sh/java projects.
+- Implement roadmap.sh/java project https://roadmap.sh/projects/github-user-activity 
 - Fetch public events for any GitHub user.
 - Uses `OkHttp` for HTTP requests and `Gson` for parsing JSON responses from the GitHub API.
 
